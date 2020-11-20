@@ -5,6 +5,10 @@ const userCases = {
       url: "http://storage.jd.com/taro-resource/cases/京东购物.png"
     },
     {
+      name: "生活小Helper",
+      url: "https://hzcxiha.gitee.io/web-docs/mini.png"
+    },
+    {
       name: "TOPLIFE",
       url: "http://storage.jd.com/taro-resource/cases/TOPLIFE.png"
     },
