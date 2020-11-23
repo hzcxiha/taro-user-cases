@@ -766,6 +766,10 @@ const userCases = {
     {
       name: '吉事办',
       url: 'https://user-images.githubusercontent.com/35049517/93738483-7b85c380-fc18-11ea-8266-3c239fd96b6c.jpg'
+    },
+    {
+      name: '生活小Helper',
+      url: 'https://hzcxiha.gitee.io/web-docs/Alipay.png'
     }
   ],
   百度智能小程序: [
