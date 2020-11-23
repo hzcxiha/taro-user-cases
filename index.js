@@ -659,6 +659,10 @@ const userCases = {
     {
       name: "星贝保险",
       url: "https://user-images.githubusercontent.com/13925302/99869910-c5375e00-2c09-11eb-9f7f-eb445606a9b9.jpg"
+    },
+    {
+      name: "生活小Helper",
+      url: "https://hzcxiha.gitee.io/web-docs/mini.png"
     }
   ],
   H5: [
